@@ -1,0 +1,15 @@
+Controller pour arduino
+
+Connecter l'Arduino et executer:
+
+python beeper.py /dev/ttyACM0 cantina.mus
+
+/dev/ttyACM0 -> arduino
+cantina.mus -> partition
+
+##########
+#  INFO  #
+##########
+
+Consultez le projet arduino-beeper pour la musique
+https://github.com/johann-lecocq/arduino-beeper
